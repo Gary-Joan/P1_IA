@@ -3506,9 +3506,9 @@
     "restore": {
       "projectUniqueName": "Practica1",
       "projectName": "Practica1",
-      "projectPath": "C:\\Users\\gjoan\\Desktop\\IA\\LABORATORIO\\PRACTICA 1\\Practica1\\.local",
+      "projectPath": "C:\\Users\\gjoan\\Desktop\\IA\\LABORATORIO\\PRACTICA 1\\P1_IA\\Practica1\\.local",
       "packagesPath": "C:\\Users\\gjoan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gjoan\\Desktop\\IA\\LABORATORIO\\PRACTICA 1\\Practica1\\.local"
+      "outputPath": "C:\\Users\\gjoan\\Desktop\\IA\\LABORATORIO\\PRACTICA 1\\P1_IA\\Practica1\\.local"
     },
     "frameworks": {
       "net461": {
